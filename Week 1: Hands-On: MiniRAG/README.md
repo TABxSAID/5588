@@ -1,3 +1,3 @@
-# Name
-# Major
-# Research / Project Interest
+# Name: Said Tabharit
+# Major: Statistics
+# Research / Project Interest:
